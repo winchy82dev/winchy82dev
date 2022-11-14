@@ -95,14 +95,14 @@ If you ever discover a bug or want to request a feature, please submit an issue 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">My Portfolio</h3>
+      <h3 align="center">Card ID API</h3>
       <br />
         <a target="_blank" href="#">
-          <img src="./img/Portfolio.gif" width="100%" alt="Portfolio"/>
+          <img src="./img/cardAPI.gif" width="100%" alt="cardAPI"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/winchy82dev/Portfolio" target="_blank">
+  <a href="https://github.com/winchy82dev/cardAPI" target="_blank">
     <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="#" target="_blank">
@@ -119,7 +119,7 @@ If you ever discover a bug or want to request a feature, please submit an issue 
         </a>
         <br />
         <p align="center"> 
-  <a href="https://github.com/winchy82dev/" target="_blank">
+  <a href="https://github.com/winchy82dev/ticTacToe" target="_blank">
     <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="#" target="_blank">
