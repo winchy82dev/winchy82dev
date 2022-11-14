@@ -109,7 +109,7 @@ If you ever discover a bug or want to request a feature, please submit an issue 
      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong></p>
+        <p><strong>HTML5, CSS3, JS, Express, Axios</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe</h3>
