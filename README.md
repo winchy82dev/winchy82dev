@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Najib LAHKIM</h1>
 <h3 align="center">A passionate Digital Marketer and Full Stack developer from Morocco</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/winchy82dev" target="blank">
     <img src="https://img.shields.io/twitter/follow/winchy82dev?logo=twitter&style=for-the-badge" alt="winchy82dev" />
   </a>
@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **js/node.js, python/flask, lua/love2d, c#/monogame**
 
-- 📫 How to reach me **nlahkim@pm.me**
+<!-- - 📫 How to reach me **nlahkim@pm.me** -->
 
 - 📄 Know about my experiences [ResumeLink](ResumeLink)
 
@@ -49,7 +49,7 @@ Feel free to look at the repositories and play around with the code.</p>
 If you ever discover a bug or want to request a feature, please submit an issue or a pull request — they are always welcome! 
 </p>
 
-<p>
+<p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winchy82dev&show_icons=true&locale=en&layout=compact" alt="winchy82dev" />
 </p>
 
