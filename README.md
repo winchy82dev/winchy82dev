@@ -33,7 +33,8 @@
 - ⚡ Fun fact **I love to learn how things works, and codng allows to do magic.**
 
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winchy82dev&show_icons=true&locale=en" alt="winchy82dev" />
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winchy82dev&show_icons=true&locale=en" alt="winchy82dev" />
 </p>
 
 ---
@@ -50,7 +51,7 @@ If you ever discover a bug or want to request a feature, please submit an issue 
 </p>
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winchy82dev&show_icons=true&locale=en&layout=compact" alt="winchy82dev" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=winchy82dev&show_icons=true&locale=en&layout=compact" alt="winchy82dev" />
 </p>
 
 <table bordercolor="#66b2b2" width="100%" >
