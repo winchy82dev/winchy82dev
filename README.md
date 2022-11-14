@@ -114,7 +114,7 @@ If you ever discover a bug or want to request a feature, please submit an issue 
     <td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe</h3>
         <br />
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://tictactoe.winchy.repl.co/">
           <img src="./img/tictactoe.gif" width="100%" alt="Tic Tac Toe"/>
         </a>
         <br />
@@ -122,7 +122,7 @@ If you ever discover a bug or want to request a feature, please submit an issue 
   <a href="https://github.com/winchy82dev/ticTacToe" target="_blank">
     <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://tictactoe.winchy.repl.co/" target="_blank">
      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
       </p>
