@@ -32,6 +32,10 @@
 
 - ⚡ Fun fact **I love to learn how things works, and codng allows to do magic.**
 
+---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winchy82dev&show_icons=true&locale=en" alt="winchy82dev" />
+</p>
+---
 <h2 align="center">Projects</h1>
 <p align="center">
 All my projects are available here on GitHub. You can view my top projects/contributions pinned below this introduction, or you can browse my repositories to see what I have built.
@@ -251,6 +255,5 @@ If you ever discover a bug or want to request a feature, please submit an issue 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winchy82dev&show_icons=true&locale=en&layout=compact" alt="winchy82dev" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winchy82dev&show_icons=true&locale=en" alt="winchy82dev" />
-</p>
+
 
