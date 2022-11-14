@@ -69,9 +69,9 @@ If you ever discover a bug or want to request a feature, please submit an issue 
   <a href="https://github.com/winchy82dev/coffeeShop" target="_blank">
      <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>  
-  <a href="#" target="_blank">
+  <!-- <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
-  </a>
+  </a> -->
       </p>
          <p><strong>Python, Flask, Postgresql, Ionic</strong></p>
     </td>
@@ -86,9 +86,9 @@ If you ever discover a bug or want to request a feature, please submit an issue 
   <a href="https://github.com/winchy82dev/triviaApi" target="_blank">
    <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <!-- <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
-  </a>
+  </a> -->
       </p>
       <p><strong>Python, Flask, Postgresql</strong></p>
     </td>
@@ -105,9 +105,9 @@ If you ever discover a bug or want to request a feature, please submit an issue 
   <a href="https://github.com/winchy82dev/fyyur" target="_blank">
     <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <!-- <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
-  </a>
+  </a> -->
       </p>
         <p><strong>Python, Flask, Postgresql</strong></p>
     </td>
@@ -122,9 +122,9 @@ If you ever discover a bug or want to request a feature, please submit an issue 
   <a href="https://github.com/winchy82dev/ticTacToe" target="_blank">
     <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://tictactoe.winchy.repl.co/" target="_blank">
+  <!-- <a href="https://tictactoe.winchy.repl.co/" target="_blank">
      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
-  </a>
+  </a> -->
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong></p>
     </td>
