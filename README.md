@@ -44,7 +44,7 @@ Feel free to look at the repositories and play around with the code.
 If you ever discover a bug or want to request a feature, please submit an issue or a pull request — they are always welcome! 
 </p>
 
-<table bordercolor="#66b2b2">
+<table bordercolor="#66b2b2" width="100%" >
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Restaurant Website</h3>
