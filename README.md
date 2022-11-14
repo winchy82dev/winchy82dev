@@ -59,17 +59,17 @@ If you ever discover a bug or want to request a feature, please submit an issue 
 <table bordercolor="#66b2b2" width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Restaurant Website</h3>
+      <h3 align="center">Coffe Shop</h3>
         <br />
         <a target="_blank" href="#">
-           <img src="./img/restaurant.gif" width="100%" alt="Restaurant"/>
+           <img src="./img/CoffeShop.gif" width="100%" alt="Coffe Shop"/>
         </a>
         <br />
         <p align="center">    
-  <a href="https://github.com/shubhamsigdar/Sample-Website-Freelance/tree/master/Source%20restaurant%20website" target="_blank">
+  <a href="https://github.com/winchy82dev/coffeeShop" target="_blank">
      <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>  
-  <a href="https://restaurant-sample-website.netlify.app/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
       </p>
@@ -90,7 +90,7 @@ If you ever discover a bug or want to request a feature, please submit an issue 
      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
       </p>
-      <p><strong>HTML5, CSS3, & Javascript</strong></p>
+      <p><strong>Python, Flask, Postgresql</strong></p>
     </td>
   </tr>
   <tr>
