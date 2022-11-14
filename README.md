@@ -73,17 +73,17 @@ If you ever discover a bug or want to request a feature, please submit an issue 
     <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
       </p>
-         <p><strong>HTML5, CSS3, & Javascript</strong></p>
+         <p><strong>Python, Flask, Postgresql, Ionic</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Hair Salon Website</h3>
+      <h3 align="center">Trivia API</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="./img/hairSalon.gif" width="100%"  alt="Hair Salon Website"/>
+            <img src="./img/TriviaAPI.gif" width="100%"  alt="Trivia API"/>
         </a>
         <br />
         <p align="center">   
-  <a href="https://github.com/winchy82dev/" target="_blank">
+  <a href="https://github.com/winchy82dev/triviaApi" target="_blank">
    <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="#" target="_blank">
@@ -95,21 +95,21 @@ If you ever discover a bug or want to request a feature, please submit an issue 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Card ID API</h3>
+      <h3 align="center">Fyuur Project</h3>
       <br />
         <a target="_blank" href="#">
-          <img src="./img/cardAPI.gif" width="100%" alt="cardAPI"/>
+          <img src="./img/Fyuur.gif" width="100%" alt="Fyuur"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/winchy82dev/cardAPI" target="_blank">
+  <a href="https://github.com/winchy82dev/fyyur" target="_blank">
     <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   </a>
       </p>
-        <p><strong>HTML5, CSS3, JS, Express, Axios</strong></p>
+        <p><strong>Python, Flask, Postgresql</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe</h3>
