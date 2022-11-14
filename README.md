@@ -35,13 +35,22 @@
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winchy82dev&show_icons=true&locale=en" alt="winchy82dev" />
 </p>
-----
+
+---
+
 <h2 align="center">Projects</h1>
 <p align="center">
-All my projects are available here on GitHub. You can view my top projects/contributions pinned below this introduction, or you can browse my repositories to see what I have built.</p><p>
-Not everything I build is open-source, There is property porjects that belong their respective owners.</p><p>
-Feel free to look at the repositories and play around with the code.</p><p>
+All my projects are available here on GitHub. You can view my top projects/contributions pinned below this introduction, or you can browse my repositories to see what I have built.</p>
+<p align="center">
+Not everything I build is open-source, There is property porjects that belong their respective owners.</p>
+<p align="center">
+Feel free to look at the repositories and play around with the code.</p>
+<p align="center">
 If you ever discover a bug or want to request a feature, please submit an issue or a pull request — they are always welcome! 
+</p>
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winchy82dev&show_icons=true&locale=en&layout=compact" alt="winchy82dev" />
 </p>
 
 <table bordercolor="#66b2b2" width="100%" >
@@ -251,9 +260,7 @@ If you ever discover a bug or want to request a feature, please submit an issue 
   </a>
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winchy82dev&show_icons=true&locale=en&layout=compact" alt="winchy82dev" />
-</p>
+
 
 
 
