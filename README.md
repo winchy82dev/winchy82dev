@@ -54,7 +54,9 @@ If you ever discover a bug or want to request a feature, please submit an issue 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=winchy82dev&show_icons=true&locale=en&layout=compact" alt="winchy82dev" />
 </p>
 
-<table bordercolor="#66b2b2" width="100%" >
+---
+
+<table bordercolor="#66b2b2" width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Restaurant Website</h3>
