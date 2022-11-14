@@ -10,6 +10,8 @@
   </a>
 </p>
 
+
+
 - 🔭 I’m currently working on **my 100 hours project**
 
 - 🌱 I’m currently learning **React & node.Js**
@@ -30,6 +32,90 @@
 
 - ⚡ Fun fact **I love to learn how things works, and codng allows to do magic.**
 
+<h2 align="center">Projects</h1>
+<p align="center">
+All my projects are available here on GitHub. You can view my top projects/contributions pinned below this introduction, or you can browse my repositories to see what I have built.
+Not everything I build is open-source, There is property porjects that belong their respective owners.
+Feel free to look at the repositories and play around with the code.
+If you ever discover a bug or want to request a feature, please submit an issue or a pull request — they are always welcome! 
+</p>
+
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Restaurant Website</h3>
+        <br />
+        <a target="_blank" href="#">
+           <img src="./img/restaurant.gif" width="100%" alt="Restaurant"/>
+        </a>
+        <br />
+        <p align="center">    
+  <a href="https://github.com/shubhamsigdar/Sample-Website-Freelance/tree/master/Source%20restaurant%20website" target="_blank">
+     <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+  </a>  
+  <a href="https://restaurant-sample-website.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+  </a>
+      </p>
+         <p><strong>HTML5, CSS3, & Javascript</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Hair Salon Website</h3>
+        <br />
+      <a target="_blank" href="#">
+            <img src="./img/hairSalon.gif" width="100%"  alt="Hair Salon Website"/>
+        </a>
+        <br />
+        <p align="center">   
+  <a href="https://github.com/winchy82dev/" target="_blank">
+   <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+  </a>
+      </p>
+      <p><strong>HTML5, CSS3, & Javascript</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">My Portfolio</h3>
+      <br />
+        <a target="_blank" href="#">
+          <img src="./img/Portfolio.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/winchy82dev/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Tic Tac Toe</h3>
+        <br />
+        <a target="_blank" href="#">
+          <img src="./img/tictactoe.gif" width="100%" alt="Tic Tac Toe"/>
+        </a>
+        <br />
+        <p align="center"> 
+  <a href="https://github.com/winchy82dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong></p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Languages and Tools:
 
@@ -167,8 +253,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winchy82dev&show_icons=true&locale=en" alt="winchy82dev" />
 </p>
-
-| lol  | test |
-|---|---|
-| | |
 
