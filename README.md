@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Najib LAHKIM</h1>
 <h3 align="center">A passionate Digital Marketer and Full Stack developer from Morocco</h3>
+<h4>I’m looking for **a Backend Software Engineer role in a Digital Agency**</h4>
 
 <p align="center">
   <a href="https://twitter.com/winchy82dev" target="blank">
@@ -16,7 +17,9 @@
 
 - 🌱 I’m currently learning **React & node.Js**
 
-- 👯 I’m looking to collaborate on **API related projects**
+- 🏢 I’m looking for **a Backend Software Engineer role in a Digital Agency**
+
+- 👯 I’m also looking to collaborate on **API related projects**
 
 - 🤝 I’m looking for help with **Making a Front end to a TV API**
 
