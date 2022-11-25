@@ -1,4 +1,6 @@
-<img src="./bannerWinchy.png" alt="winchy" align="center"/>
+<div align="center">
+<img src="./bannerWinchy.png" alt="winchy" />
+</div>
 <h1 align="center">Hi 👋, I'm Winchy</h1>
 <h3 align="center">A passionate Digital Marketer and Full Stack developer</h3>
 <h3 align="center">I create web applications and run a small Digital Agency</h3>
