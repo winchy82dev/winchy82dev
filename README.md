@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Winchy</h1>
 <h3 align="center">A passionate Digital Marketer and Full Stack developer</h3>
-<h3 align="center">I’m looking for a Backend Software Engineer role in a Digital Agency</h3>
+<h3 align="center">I create web applications and run a small Digital Agency</h3>
 
 <p align="center">
   <a href="https://twitter.com/winchy82dev" target="blank">
