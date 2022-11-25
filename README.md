@@ -1,8 +1,8 @@
-![Najib LAHKIM](./banner.png)
+![Najib LAHKIM](./bannerWinchy.png)
 
 
-<h1 align="center">Hi 👋, I'm Najib LAHKIM</h1>
-<h3 align="center">A passionate Digital Marketer and Full Stack developer from Morocco</h3>
+<h1 align="center">Hi 👋, I'm Winchy</h1>
+<h3 align="center">A passionate Digital Marketer and Full Stack developer</h3>
 <h3 align="center">I’m looking for a Backend Software Engineer role in a Digital Agency</h3>
 
 <p align="center">
